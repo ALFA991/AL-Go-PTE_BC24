@@ -3,6 +3,5 @@
   "appFolders": ["MitarbeiterImport"],
   "type": "OnPrem",
   "artifact": "onprem/24.0/de",
-  "signApp": false,
-  "environments": []
+  "signApp": false
 }
