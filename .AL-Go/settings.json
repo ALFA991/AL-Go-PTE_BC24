@@ -4,5 +4,7 @@
   "appFolders": ["MitarbeiterImport"],
   "testFolders": [],
   "bcptTestFolders": [],
-  "artifact": "onprem/24.0.0.0/de"
+  "type": "OnPrem",
+  "artifact": "onprem/24.0/de",
+  "signApp": false
 }
