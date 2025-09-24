@@ -4,11 +4,5 @@
   "appFolders": ["MitarbeiterImport"],
   "testFolders": [],
   "bcptTestFolders": [],
-  "environments": [
-    {
-      "name": "BC24-OnPrem",
-      "type": "OnPrem",
-      "artifact": "onprem/24.0/de"
-    }
-  ]
+  "artifact": "onprem/24.0.0.0/de"
 }
