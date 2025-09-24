@@ -1,10 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
-  "country": "de",
   "appFolders": ["MitarbeiterImport"],
-  "testFolders": [],
-  "bcptTestFolders": [],
-  "type": "OnPrem",
-  "artifact": "onprem/24.0/de",
+  "environments": [
+    {
+      "name": "BC24-OnPrem-DE",
+      "type": "OnPrem",
+      "artifact": "onprem/24.0/de"
+    }
+  ],
   "signApp": false
 }
